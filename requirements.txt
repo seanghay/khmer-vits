@@ -1,0 +1,8 @@
+monotonic_align
+onnx
+onnxruntime
+scipy
+tensorboard
+torch
+torchvision
+tqdm
