@@ -4,5 +4,6 @@ onnxruntime
 scipy
 tensorboard
 torch
+torchaudio
 torchvision
 tqdm
